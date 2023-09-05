@@ -20,7 +20,9 @@
 
 body {
     background-color: #242424(--cor-de-fundo);
-    font-family: var(--fonte-principal);
+    font-family: Handjet, cursive;
+font-family: Press Start 2P, cursive;
+font-family: VT323, monospace;(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
 }
